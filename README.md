@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 MyBatis JPetStore
 =================
 
@@ -83,3 +84,6 @@ $ ./mvnw test -P itest
 > Known issues:
 >
 > * [Two tests are failed on The WebSphere Liberty](https://github.com/mybatis/jpetstore-6/issues/159).
+=======
+# yash
+>>>>>>> ce3983d9d6ab326da93372899fe77fb54e097ea1
